@@ -1,0 +1,19 @@
+h1 {
+    text-align:center;font-size:xx-large;font-style:normal;font-family:Arial Black;text-decoration:underline;
+}
+h2 {
+	font-size:x-large;font-style:normal;font-family:Arial Black;
+}
+p {
+	font-family:Arial;font-size:medium;
+}
+ul {
+	font-family:Arial;font-size:medium;
+}
+span {
+	text-align:center;text-decoration:underline
+}
+div {
+Padding: 40px,40px,40px,40px;
+border: 5px solid black;
+}
